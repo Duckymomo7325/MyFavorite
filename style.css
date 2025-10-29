@@ -6,3 +6,7 @@ body{
 div{
     margin-bottom: 20px;
 }
+img {
+    height: 400px;
+    width: 400px;
+}
